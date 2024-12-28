@@ -1,0 +1,1 @@
+This Weather Application is a JavaFX-based weather application providing real-time updates and forecasts. Users can easily check current weather conditions and get location-based forecasts with a sleek and intuitive interface.
